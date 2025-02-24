@@ -1,6 +1,6 @@
 # Juno
 
-**Juno** is a machine-learning-enabled system designed to optimise scheduling and planning for motor and physical rehabilitation timetables. The system ensures that patients grouped together for therapy have similar impairment and cognitive levels, improving rehabilitation outcomes. It also features an LLM-powered interface for physician interaction, allowing real-time scheduling queries and overrides.
+**Juno** is a machine-learning-enabled system designed to optimise scheduling and planning for motor and physical rehabilitation timetables. The system ensures that patients grouped together for therapy have similar impairment and cognitive levels which has shown to improve rehabilitation outcomes. It also features an LLM-powered interface for physicians, allowing real-time scheduling queries and overrides.
 
 ---
 
