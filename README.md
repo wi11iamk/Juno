@@ -103,10 +103,10 @@ This project is licensed under the MIT License.
 
 ---
 
-## **Authors**
-Developed by **William D. Kistler**  
-GitHub: [@wi11iamk](https://github.com/wi11iamk)  
-For inquiries, reach out at [williamdkistler@gmail.com](mailto:williamdkistler@gmail.com)
+## Contributions
+If you're interested in improving Lucy, feel free to submit a pull request or open an issue.
+
+**Maintainers**: `@wi11iamk`
 
 ---
 
