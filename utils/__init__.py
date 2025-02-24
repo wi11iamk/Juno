@@ -1,0 +1,1 @@
+"""Utility module containing shared functionality for the patient scheduler system."""
