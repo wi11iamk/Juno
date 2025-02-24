@@ -1,6 +1,6 @@
 # Juno
 
-**Juno** is a machine-learning-enabled system designed to optimize scheduling and rehabilitation planning for motor and physical rehabilitation wards. The system ensures that patients grouped together for therapy have similar impairment levels, improving rehabilitation outcomes. It also features an LLM-powered interface for physician interaction, allowing real-time scheduling queries and override justifications.
+**Juno** is a machine-learning-enabled system designed to optimise scheduling and planning for motor and physical rehabilitation timetables. The system ensures that patients grouped together for therapy have similar impairment and cognitive levels, improving rehabilitation outcomes. It also features an LLM-powered interface for physician interaction, allowing real-time scheduling queries and overrides.
 
 ---
 
@@ -104,11 +104,11 @@ This project is licensed under the MIT License.
 ---
 
 ## Contributions
-If you're interested in improving Lucy, feel free to submit a pull request or open an issue.
+If you're interested in improving Juno, feel free to submit a pull request or open an issue.
 
 **Maintainers**: `@wi11iamk`
 
 ---
 
 ## **Acknowledgments**
-Special thanks to contributors and researchers in rehabilitation science for inspiring this project.
+Special thanks to the researchers and clinicians in rehabilitation science @UCLH National Hospital for Neurology and Neurosurgery (NHNN), Queen Square for inspiring and contributing to this project.
