@@ -111,4 +111,4 @@ If you're interested in improving Juno, feel free to submit a pull request or op
 ---
 
 ## **Acknowledgments**
-Special thanks to the researchers and clinicians in rehabilitation science @UCLH National Hospital for Neurology and Neurosurgery (NHNN), Queen Square for inspiring and contributing to this project.
+Special thanks to the researchers and clinicians @UCLH National Hospital for Neurology and Neurosurgery (NHNN), Queen Square for inspiring and contributing to this project.
